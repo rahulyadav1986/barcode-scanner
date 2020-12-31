@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1609407094841,
+  "index": "https://github.com/rahulyadav1986/barcode-scanner.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/rahulyadav1986/barcode-scanner.git/favicon.ico",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/index.html",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.014a72fa7b35d75abea0.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.014a72fa7b35d75abea0.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/manifest.webmanifest",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es5.9e286f6d9247438cbb02.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/runtime-es5.1eba213af0b233498d9d.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/styles.f515d01f9fe2b2cfc902.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/beep.wav",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_blue.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_gold.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_red.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-128x128.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-144x144.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-152x152.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-192x192.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-384x384.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-512x512.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-72x72.png",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/beep.wav": "0a41b9dfa69770b9b7b08b2dae78b6e11ab54aba",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_blue.png": "654fe769ab822980f4549119c897aa5b3211dd7e",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_gold.png": "4d3e2a65733c0c6039f2b3aa720698a950a1e3b2",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/classy_crab_red.png": "790acd10145aafde256803f614d937a228650328",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-128x128.png": "646a30480f30fefd2de520c2609d431c01fe3e27",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-144x144.png": "6d524d4bba9fe0f5fb1f78283d5efe98ea6b58b4",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-152x152.png": "79b35bcd11d8c74fead1adf69db25d599372a6bc",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-192x192.png": "b821c9b647d015db32ac2890594591d131309ef7",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-384x384.png": "9e44e750010355ac1ae38aded6075e10f80b8a7a",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-512x512.png": "c84ec6a712ab6495024751d28efbf6343606fa94",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-72x72.png": "fad9fc8096dbe282cec1de445e5fa778dc9e7440",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-96x96.png": "575644dfa15136fc0638748072a0de2dbd111ece",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/index.html": "29326a1d54bb6826d6b0320e5b82c6d1e3937d67",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.014a72fa7b35d75abea0.js": "e0b30f38926993703bbc4bad743428298bb73201",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.014a72fa7b35d75abea0.js": "c9e7f65a7562a4cbb9ae584df53d118c6146e5b9",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/manifest.webmanifest": "17b1e832fb1fc77eb9941e240214bd2766de7562",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/styles.f515d01f9fe2b2cfc902.css": "c4593610336cf663c9147a6240b0bc4b0e844c4f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
