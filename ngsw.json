@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609407094841,
+  "timestamp": 1609407830657,
   "index": "https://github.com/rahulyadav1986/barcode-scanner.git/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://github.com/rahulyadav1986/barcode-scanner.git/favicon.ico",
         "https://github.com/rahulyadav1986/barcode-scanner.git/index.html",
-        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.014a72fa7b35d75abea0.js",
-        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.014a72fa7b35d75abea0.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.e9b3f5630f42ee5ba016.js",
+        "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.e9b3f5630f42ee5ba016.js",
         "https://github.com/rahulyadav1986/barcode-scanner.git/manifest.webmanifest",
         "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -57,9 +57,9 @@
     "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-72x72.png": "fad9fc8096dbe282cec1de445e5fa778dc9e7440",
     "https://github.com/rahulyadav1986/barcode-scanner.git/assets/icons/icon-96x96.png": "575644dfa15136fc0638748072a0de2dbd111ece",
     "https://github.com/rahulyadav1986/barcode-scanner.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/rahulyadav1986/barcode-scanner.git/index.html": "29326a1d54bb6826d6b0320e5b82c6d1e3937d67",
-    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.014a72fa7b35d75abea0.js": "e0b30f38926993703bbc4bad743428298bb73201",
-    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.014a72fa7b35d75abea0.js": "c9e7f65a7562a4cbb9ae584df53d118c6146e5b9",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/index.html": "ebc050931f4df4ff7c28ddbb3055dffaf17ee5aa",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es2015.e9b3f5630f42ee5ba016.js": "d16223ebea9d9c1e4571982e3f5c5ab9456e257d",
+    "https://github.com/rahulyadav1986/barcode-scanner.git/main-es5.e9b3f5630f42ee5ba016.js": "1dabd8b6c3cdafeb13517d5f176d7e37cbbbc304",
     "https://github.com/rahulyadav1986/barcode-scanner.git/manifest.webmanifest": "17b1e832fb1fc77eb9941e240214bd2766de7562",
     "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://github.com/rahulyadav1986/barcode-scanner.git/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
